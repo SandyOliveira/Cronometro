@@ -1,6 +1,7 @@
 # myapp
 
 A new Flutter project.
+Baseado nos conhecimento das linguagens Python e Js, criei uma aplicação de cronometro em Flutter.
 
 ## Getting Started
 
