@@ -34,7 +34,7 @@ class _CronometroState extends State<Cronometro> {
   bool emExecucao = false;
 
   Timer? _timer;
-
+//validando
   void iniciarCronometro() {
     setState(() {
       tempoRestante = int.tryParse(tempoController.text) ?? 0;
